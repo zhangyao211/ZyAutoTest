@@ -2,3 +2,4 @@
 这是需要合并的内容
 这是master上增加的内容
 这是mergedemo上添加的内容
+version1
