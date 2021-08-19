@@ -1,0 +1,5 @@
+java -jar ./moco-runner-0.11.0-standalone.jar -p 8888 -c json配置文件
+
+java -jar ./moco-runner-0.11.0-standalone.jar -p 8888 -c startup1.json
+
+java -jar ./moco-runner-0.11.0-standalone.jar http -p 8888 -c startup1.json
